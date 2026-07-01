@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0031/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 要行捨身經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2895.xml
+    old_id: T85n2895
+hash: sha256:977822bb95fdc144750313dd8fbc283fbe20f10573c77274ff8d0dc255e9ae8f

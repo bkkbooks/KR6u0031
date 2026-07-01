@@ -1,0 +1,45 @@
+canonical_identifier: bkk:krp/KR6u0031/v1
+canonical_location: https://kanripo.org/bkk/KR6u0031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 要行捨身經
+  identifiers:
+    alt_id:
+    - T85n2895
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2895.xml
+    old_id: T85n2895
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0031_000.yaml, hash: 'sha256:977822bb95fdc144750313dd8fbc283fbe20f10573c77274ff8d0dc255e9ae8f'}
+  - {seq: 1, filename: KR6u0031_001.yaml, hash: 'sha256:e1f7ae52e80b94ad34c2f5fa15f17d4a9472e61e247118dfcd534683af1dd144'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6u0031_001.markers.yaml, hash: 'sha256:bee2582d9297174faedf535ce2233ae93e6330f475d7bd1ed37372ad9b09e91f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0031_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1509
+  label: 佛說要行捨身經
+  type: juan
+  level: 1
+hash: sha256:5a2f782dff89970f5836a738ddef8200c7582178471f310e6e98cf3c40995d10
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
