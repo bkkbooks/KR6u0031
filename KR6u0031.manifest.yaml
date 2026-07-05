@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0031_000.yaml, hash: 'sha256:977822bb95fdc144750313dd8fbc283fbe20f10573c77274ff8d0dc255e9ae8f'}
-  - {seq: 1, filename: KR6u0031_001.yaml, hash: 'sha256:e1f7ae52e80b94ad34c2f5fa15f17d4a9472e61e247118dfcd534683af1dd144'}
+  - {seq: 1, filename: KR6u0031_001.yaml, hash: 'sha256:0cf314cc600d56fc2e179f696f9ca15bc5fa131e141e51b5771c90f18e5ca4bd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0031_001.markers.yaml, hash: 'sha256:bee2582d9297174faedf535ce2233ae93e6330f475d7bd1ed37372ad9b09e91f'}
+  - {seq: 0, role: markers, filename: assets/KR6u0031_000.markers.yaml, hash: 'sha256:57a121f72a95af0a169834f14537b56f5631b5e2510f2a74be547a5cca20eef8'}
+  - {seq: 1, role: markers, filename: assets/KR6u0031_001.markers.yaml, hash: 'sha256:093979b3351447e88b6cc4fb024a077627732713fa47a96448b974f46c88a24d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 佛說要行捨身經
   type: juan
   level: 1
-hash: sha256:5a2f782dff89970f5836a738ddef8200c7582178471f310e6e98cf3c40995d10
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:01193e8234592c9cbf1d383355c80077e54c24db5b61c967996719658536279c
