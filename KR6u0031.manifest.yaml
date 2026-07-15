@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0031/v1
 canonical_location: https://kanripo.org/bkk/KR6u0031/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 要行捨身經
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0031_000.yaml, hash: 'sha256:977822bb95fdc144750313dd8fbc283fbe20f10573c77274ff8d0dc255e9ae8f'}
-  - {seq: 1, filename: KR6u0031_001.yaml, hash: 'sha256:0cf314cc600d56fc2e179f696f9ca15bc5fa131e141e51b5771c90f18e5ca4bd'}
+  - {seq: 1, filename: KR6u0031_001.yaml, hash: 'sha256:d79c98e14ae93c24a92d23c2eaa511c8f4c7baf7c0b73e8a34c7385a033092f1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0031_000.markers.yaml, hash: 'sha256:57a121f72a95af0a169834f14537b56f5631b5e2510f2a74be547a5cca20eef8'}
-  - {seq: 1, role: markers, filename: assets/KR6u0031_001.markers.yaml, hash: 'sha256:093979b3351447e88b6cc4fb024a077627732713fa47a96448b974f46c88a24d'}
+  - {seq: 1, role: markers, filename: assets/KR6u0031_001.markers.yaml, hash: 'sha256:8ec7af62f990fddb0d4797a459c15f02685b3c8e48e5d8c414cf5fb784cc31f1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 佛說要行捨身經
   type: juan
   level: 1
-hash: sha256:01193e8234592c9cbf1d383355c80077e54c24db5b61c967996719658536279c
+hash: sha256:78bf2ace6ea484d0b0d88dfa8a75c77f20475bda7e2e56ead10de7cbffe62281
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
